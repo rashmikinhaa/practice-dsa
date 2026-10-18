@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/workrashmikinha/practice-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/workrashmikinha/practice-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/workrashmikinha/practice-dsa/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
