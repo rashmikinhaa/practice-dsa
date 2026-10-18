@@ -3,7 +3,8 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    // Brute force - it exceeds time
+
+    // 0(n^2) - brute force
     // for(let i=0;i<nums.length-1;i++){
     //     for(let j=i+1;j<nums.length;j++){
     //         if(nums[i]==nums[j]){
@@ -13,16 +14,7 @@ var containsDuplicate = function(nums) {
     // }
     // return false;
 
-    // using map
-    // let map = new Map();
-    // for(let i=0;i<nums.length;i++){
-    //     if(map.has(nums[i])){
-    //         return true;
-    //     }
-    //     map.set(nums[i],i);
-    // }
-    // return false;
-
+    // 0(n(log(n)))
     // nums.sort();
     // for(let i=0;i<nums.length-1;i++){
     //     if(nums[i]==nums[i+1]){
@@ -31,13 +23,15 @@ var containsDuplicate = function(nums) {
     // }
     // return false;
 
-    // set
+
     let set = new Set();
     for(let i=0;i<nums.length;i++){
         if(set.has(nums[i])){
-            return true;
+          return true;
         }
-        set.add(nums[i]);
+        else{
+            set.add(nums[i]);
+        }
     }
     return false;
 };
