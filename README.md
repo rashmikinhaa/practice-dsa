@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/workrashmikinha/practice-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/workrashmikinha/practice-dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/workrashmikinha/practice-dsa/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/workrashmikinha/practice-dsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
