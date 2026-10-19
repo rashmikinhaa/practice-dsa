@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/workrashmikinha/practice-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/workrashmikinha/practice-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/workrashmikinha/practice-dsa/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/workrashmikinha/practice-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/workrashmikinha/practice-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/workrashmikinha/practice-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/workrashmikinha/practice-dsa/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/workrashmikinha/practice-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/workrashmikinha/practice-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/workrashmikinha/practice-dsa/tree/master/0704-binary-search) |
