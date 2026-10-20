@@ -120,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/workrashmikinha/practice-dsa/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/workrashmikinha/practice-dsa/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/workrashmikinha/practice-dsa/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
