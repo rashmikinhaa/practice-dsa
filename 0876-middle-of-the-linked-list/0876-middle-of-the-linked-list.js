@@ -10,16 +10,24 @@
  * @return {ListNode}
  */
 var middleNode = function(head) {
-    let size = 0;
-    let curr=head;
-    while(curr != null){
-        size++;
-        curr=curr.next;
+    // let size = 0;
+    // let curr=head;
+    // while(curr != null){
+    //     size++;
+    //     curr=curr.next;
+    // }
+    // let mid = Math.floor(size/2);
+    // let midNode= head;
+    // for(let i=0;i<mid;i++){
+    //     midNode=midNode.next;
+    // }
+    // return midNode;
+
+    let slow=head;
+    let fast=head;
+    while(fast && fast.next){
+        slow=slow.next;
+        fast=fast.next.next;
     }
-    let mid = Math.floor(size/2);
-    let midNode= head;
-    for(let i=0;i<mid;i++){
-        midNode=midNode.next;
-    }
-    return midNode;
+    return slow;
 };
