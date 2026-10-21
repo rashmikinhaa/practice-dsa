@@ -8,20 +8,21 @@ var searchMatrix = function(matrix, target) {
     let n = matrix[0].length;
 
     let left = 0;
-    let right = m * n - 1;
-
+    let right = (m*n)-1;
     while(left<=right){
-        let mid = Math.floor((left + right) / 2);
+        let mid = Math.floor((left+right)/2);
 
-        let row = Math.floor(mid / n);
-        let col = mid % n;
+        let midRow = Math.floor(mid/n);
+        let midCol = mid%n;
 
-        if (matrix[row][col] === target) {
+        if(matrix[midRow][midCol]==target){
             return true;
-        } else if (matrix[row][col] < target) {
-            left = mid + 1;
-        } else {
-            right = mid - 1;
+        }
+
+        if(matrix[midRow][midCol]>target){
+            right=mid-1
+        }else{
+            left=mid+1;
         }
     }
 
