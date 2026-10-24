@@ -16,13 +16,11 @@ var mergeTwoLists = function(list1, list2) {
 
     while(list1 && list2){
         if(list1.val>list2.val){
-           let newNode = new ListNode(list2.val);
-           curr.next = newNode;
+           curr.next = list2;
            curr=curr.next;
            list2 = list2.next;
         }else{
-           let newNode = new ListNode(list1.val);
-           curr.next = newNode;
+           curr.next = list1;
            curr=curr.next;
            list1 = list1.next;
         }
