@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/rashmikinhaa/practice-dsa/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/workrashmikinha/practice-dsa/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/rashmikinhaa/practice-dsa/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/rashmikinhaa/practice-dsa/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/workrashmikinha/practice-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/workrashmikinha/practice-dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/workrashmikinha/practice-dsa/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/rashmikinhaa/practice-dsa/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
